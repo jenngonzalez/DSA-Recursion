@@ -39,6 +39,10 @@ const triNum = function(num) {
 
 triNum(10)
 
+// #5. String Splitter:
+
+// #6. Fibonacci Sequence:
+
 
 // #7. Factorial: 
 
@@ -58,6 +62,16 @@ Program.assertEqual(factorial(0), 1);
 Program.assertEqual(factorial(5), 120);
 Program.assertEqual(factorial(4), 24);
 Program.assertEqual(factorial(3), 6);
+
+// #8. Maze - find one exit:
+
+// #9. Maze - find ALL exits:
+
+// #10. Anagrams:
+
+// #11. Organization Chart:
+
+// #12. Binary Representation:
 
 
 
